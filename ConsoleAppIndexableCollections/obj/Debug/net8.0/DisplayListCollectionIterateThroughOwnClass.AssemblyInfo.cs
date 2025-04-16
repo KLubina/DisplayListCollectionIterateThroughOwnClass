@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("CollectionsIterateThroughOwnListClass")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("DisplayListCollectionIterateThroughOwnClass")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe538dc76eeb1071b96a368e9bc3f188bf7c7dd1")]
-[assembly: System.Reflection.AssemblyProductAttribute("CollectionsIterateThroughOwnListClass")]
-[assembly: System.Reflection.AssemblyTitleAttribute("CollectionsIterateThroughOwnListClass")]
+[assembly: System.Reflection.AssemblyProductAttribute("DisplayListCollectionIterateThroughOwnClass")]
+[assembly: System.Reflection.AssemblyTitleAttribute("DisplayListCollectionIterateThroughOwnClass")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Von der MSBuild WriteCodeFragment-Klasse generiert.

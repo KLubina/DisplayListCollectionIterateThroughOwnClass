@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHubDesktop\\DisplayListCollectionIterateThroughOwnClass\\ConsoleAppIndexableCollections\\CollectionsIterateThroughOwnListClass.csproj": {}
+    "C:\\GitHubDesktop\\DisplayListCollectionIterateThroughOwnClass\\ConsoleAppIndexableCollections\\DisplayListCollectionIterateThroughOwnClass.csproj": {}
   },
   "projects": {
-    "C:\\GitHubDesktop\\DisplayListCollectionIterateThroughOwnClass\\ConsoleAppIndexableCollections\\CollectionsIterateThroughOwnListClass.csproj": {
+    "C:\\GitHubDesktop\\DisplayListCollectionIterateThroughOwnClass\\ConsoleAppIndexableCollections\\DisplayListCollectionIterateThroughOwnClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHubDesktop\\DisplayListCollectionIterateThroughOwnClass\\ConsoleAppIndexableCollections\\CollectionsIterateThroughOwnListClass.csproj",
-        "projectName": "CollectionsIterateThroughOwnListClass",
-        "projectPath": "C:\\GitHubDesktop\\DisplayListCollectionIterateThroughOwnClass\\ConsoleAppIndexableCollections\\CollectionsIterateThroughOwnListClass.csproj",
+        "projectUniqueName": "C:\\GitHubDesktop\\DisplayListCollectionIterateThroughOwnClass\\ConsoleAppIndexableCollections\\DisplayListCollectionIterateThroughOwnClass.csproj",
+        "projectName": "DisplayListCollectionIterateThroughOwnClass",
+        "projectPath": "C:\\GitHubDesktop\\DisplayListCollectionIterateThroughOwnClass\\ConsoleAppIndexableCollections\\DisplayListCollectionIterateThroughOwnClass.csproj",
         "packagesPath": "C:\\Users\\krist\\.nuget\\packages\\",
         "outputPath": "C:\\GitHubDesktop\\DisplayListCollectionIterateThroughOwnClass\\ConsoleAppIndexableCollections\\obj\\",
         "projectStyle": "PackageReference",
