@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CollectionsIterateThroughList")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43dfa5ee012c58af7ebc9deb93bc353fc79c3070")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c313e00e36158ee3f65c1be723f78d54dddc6a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("CollectionsIterateThroughList")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CollectionsIterateThroughList")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

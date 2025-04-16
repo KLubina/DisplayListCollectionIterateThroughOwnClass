@@ -23,14 +23,6 @@ internal class Program
       {
       Console.WriteLine( theGalaxy.Name + " " + theGalaxy.MegaLightYears );
       }
-
-    /* 
-     * Output
-     * Tadpole 400
-     * Pinwheel 25
-     * Milky Way 0
-     * Andromeda 3
-     */
     }
   }
 
@@ -39,3 +31,12 @@ public class Galaxy
   public required string Name { get; set; }
   public int MegaLightYears { get; set; }
   }
+
+
+    /* 
+     * Output
+     * Tadpole 400
+     * Pinwheel 25
+     * Milky Way 0
+     * Andromeda 3
+     */
