@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHubDesktop\\CollectionsIterateThroughList-Exercise\\ConsoleAppIndexableCollections\\CollectionsIterateThroughList.csproj",
-      "projectName": "CollectionsIterateThroughList",
-      "projectPath": "C:\\GitHubDesktop\\CollectionsIterateThroughList-Exercise\\ConsoleAppIndexableCollections\\CollectionsIterateThroughList.csproj",
+      "projectUniqueName": "C:\\GitHubDesktop\\CollectionsIterateThroughList-Exercise\\ConsoleAppIndexableCollections\\CollectionsIterateThroughOwnListClass.csproj",
+      "projectName": "CollectionsIterateThroughOwnListClass",
+      "projectPath": "C:\\GitHubDesktop\\CollectionsIterateThroughList-Exercise\\ConsoleAppIndexableCollections\\CollectionsIterateThroughOwnListClass.csproj",
       "packagesPath": "C:\\Users\\KL3555\\.nuget\\packages\\",
       "outputPath": "C:\\GitHubDesktop\\CollectionsIterateThroughList-Exercise\\ConsoleAppIndexableCollections\\obj\\",
       "projectStyle": "PackageReference",
