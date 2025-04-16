@@ -1,4 +1,4 @@
-# CollectionsIterateThroughOwnListClass
+# DisplayListCollectionIterateThroughOwnClass
 
 For the elements in the List-Data-Structure I have defined my own class.
 
