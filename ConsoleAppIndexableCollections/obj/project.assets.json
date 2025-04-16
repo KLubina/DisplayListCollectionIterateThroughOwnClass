@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ConsoleAppCollectionsIterateThroughList\\ConsoleAppIndexableCollections\\ConsoleAppIndexableCollections.csproj",
-      "projectName": "ConsoleAppIndexableCollections",
-      "projectPath": "C:\\ConsoleAppCollectionsIterateThroughList\\ConsoleAppIndexableCollections\\ConsoleAppIndexableCollections.csproj",
+      "projectUniqueName": "C:\\GitHubDesktop\\CollectionsIterateThroughList-Exercise\\ConsoleAppIndexableCollections\\CollectionsIterateThroughList.csproj",
+      "projectName": "CollectionsIterateThroughList",
+      "projectPath": "C:\\GitHubDesktop\\CollectionsIterateThroughList-Exercise\\ConsoleAppIndexableCollections\\CollectionsIterateThroughList.csproj",
       "packagesPath": "C:\\Users\\KL3555\\.nuget\\packages\\",
-      "outputPath": "C:\\ConsoleAppCollectionsIterateThroughList\\ConsoleAppIndexableCollections\\obj\\",
+      "outputPath": "C:\\GitHubDesktop\\CollectionsIterateThroughList-Exercise\\ConsoleAppIndexableCollections\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

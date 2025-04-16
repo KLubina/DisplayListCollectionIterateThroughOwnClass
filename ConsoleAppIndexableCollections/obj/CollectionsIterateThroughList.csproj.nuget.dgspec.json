@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHubDesktop\\CollectionsIterateThroughList-Exercise\\ConsoleAppIndexableCollections\\ConsoleAppIndexableCollections.csproj": {}
+    "C:\\GitHubDesktop\\CollectionsIterateThroughList-Exercise\\ConsoleAppIndexableCollections\\CollectionsIterateThroughList.csproj": {}
   },
   "projects": {
-    "C:\\GitHubDesktop\\CollectionsIterateThroughList-Exercise\\ConsoleAppIndexableCollections\\ConsoleAppIndexableCollections.csproj": {
+    "C:\\GitHubDesktop\\CollectionsIterateThroughList-Exercise\\ConsoleAppIndexableCollections\\CollectionsIterateThroughList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHubDesktop\\CollectionsIterateThroughList-Exercise\\ConsoleAppIndexableCollections\\ConsoleAppIndexableCollections.csproj",
-        "projectName": "ConsoleAppIndexableCollections",
-        "projectPath": "C:\\GitHubDesktop\\CollectionsIterateThroughList-Exercise\\ConsoleAppIndexableCollections\\ConsoleAppIndexableCollections.csproj",
+        "projectUniqueName": "C:\\GitHubDesktop\\CollectionsIterateThroughList-Exercise\\ConsoleAppIndexableCollections\\CollectionsIterateThroughList.csproj",
+        "projectName": "CollectionsIterateThroughList",
+        "projectPath": "C:\\GitHubDesktop\\CollectionsIterateThroughList-Exercise\\ConsoleAppIndexableCollections\\CollectionsIterateThroughList.csproj",
         "packagesPath": "C:\\Users\\KL3555\\.nuget\\packages\\",
         "outputPath": "C:\\GitHubDesktop\\CollectionsIterateThroughList-Exercise\\ConsoleAppIndexableCollections\\obj\\",
         "projectStyle": "PackageReference",
